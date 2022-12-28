@@ -1,8 +1,8 @@
 {
-    "url": "https://kombat1.github.io/test.yaml",
+    "url": "https://kombat1.github.io/xss.yaml",
     "urls": [
         {
-            "url": "https://kombat1.github.io/test.yaml",
+            "url": "https://kombat1.github.io/xss.yaml",
             "name": "Foo"
         }
     ]
