@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-           <script>alert('kombat')</script>
+           <img src=x onerror=alert(1)>
           format: int64
           in: path
           name: id
