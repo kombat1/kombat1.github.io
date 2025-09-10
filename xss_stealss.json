@@ -4,6 +4,9 @@
         {
             "url": "https://kombat1.github.io/stealsss_account.yaml",
             "name": "Foo"
+        },{
+        "url": "https://kombat1.github.io/test2.yaml",
+        "name": "Foo2"
         }
     ]
 }
